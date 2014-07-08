@@ -13,4 +13,4 @@ FANの電源は、UART HEADER J2の3番ピンのGNDと、J15の2番ピンの+5V�
 
 なお、ケースの寸法は、https://github.com/bvernoux/parallella_case の値を参考にさせて頂きました。ありがとうございました。
 
-              by marsee
+marsee
